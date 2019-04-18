@@ -1,0 +1,14 @@
+E:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\bin\Debug\netcoreapp2.1\AuthenticationApi.deps.json
+E:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\bin\Debug\netcoreapp2.1\AuthenticationApi.runtimeconfig.json
+E:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\bin\Debug\netcoreapp2.1\AuthenticationApi.runtimeconfig.dev.json
+e:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\bin\Debug\netcoreapp2.1\AuthenticationApi.dll
+e:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\bin\Debug\netcoreapp2.1\AuthenticationApi.pdb
+e:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\obj\Debug\netcoreapp2.1\AuthenticationApi.csprojAssemblyReference.cache
+e:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\obj\Debug\netcoreapp2.1\AuthenticationApi.csproj.CoreCompileInputs.cache
+e:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\obj\Debug\netcoreapp2.1\AuthenticationApi.RazorAssemblyInfo.cache
+e:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\obj\Debug\netcoreapp2.1\AuthenticationApi.RazorAssemblyInfo.cs
+e:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\obj\Debug\netcoreapp2.1\AuthenticationApi.AssemblyInfoInputs.cache
+e:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\obj\Debug\netcoreapp2.1\AuthenticationApi.AssemblyInfo.cs
+e:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\obj\Debug\netcoreapp2.1\AuthenticationApi.RazorTargetAssemblyInfo.cache
+e:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\obj\Debug\netcoreapp2.1\AuthenticationApi.dll
+e:\Library\Desktop\PosPuc\Projetos\AuthenticationApi\obj\Debug\netcoreapp2.1\AuthenticationApi.pdb
