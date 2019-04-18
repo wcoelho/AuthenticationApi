@@ -60,7 +60,7 @@ namespace AuthenticationApi.Controllers
 
             var encPassword = authenticationItem.Password;
 
-            if(!CommonOperations.Encrypt(authItem.Password).Equals(encPassword))
+            if(!authItem.Password.Equals(encPassword))
             {
                 return JsonConvert.SerializeObject(new {result = false, message = "Senha não confere"});
             }

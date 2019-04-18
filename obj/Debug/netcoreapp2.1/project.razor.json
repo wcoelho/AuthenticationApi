@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\Library\\Desktop\\PosPuc\\Projetos\\AuthenticationApi\\AuthenticationAPI.csproj",
+  "FilePath": "e:\\Library\\Desktop\\PosPuc\\Projetos\\AuthenticationApi\\AuthenticationApi.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -309,7 +309,7 @@
             "IsEnum": false,
             "IndexerNamePrefix": "asp-route-",
             "IndexerTypeName": "System.String",
-            "Documentation": null,
+            "Documentation": "\n            <summary>\n            Additional parameters for the route.\n            </summary>\n        ",
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "RouteValues"
@@ -2678,6 +2678,6 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "AuthenticationAPI",
+  "RootNamespace": "AuthenticationApi",
   "Documents": []
 }
