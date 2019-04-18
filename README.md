@@ -15,15 +15,15 @@ Requisição:
 Respostas:  
 * Validação bem sucedida  
   
-{"Validado":true,"Mensagem":"Usuário validado com sucesso"}  
+{"result":true,"message":"Usuário validado com sucesso"}  
   
 * Usuário inválido  
   
-{"Validado":false,"Mensagem":"Nome do usuário não confere"}  
+{"result":false,"message":"Nome do usuário não confere"}  
   
 * Senha inválida  
   
-{"Validado":false,"Mensagem":"Senha não confere"}  
+{"result":false,"message":"Senha não confere"}  
   
 ## Testes Unitários
 Utilzar a Postman Collection em Postman/postman_collection.json.  

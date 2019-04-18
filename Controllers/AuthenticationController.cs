@@ -48,24 +48,24 @@ namespace AuthenticationApi.Controllers
 
             if(authenticationItem==null)
             {
-                return JsonConvert.SerializeObject(new {Validado = false, Mensagem = "Usuário não encontrado"});
+                return JsonConvert.SerializeObject(new {result = false, message = "Usuário não encontrado"});
             }
 
             var name = authenticationItem.UserName;
 
             if(!authItem.UserName.Equals(name))
             {
-                return JsonConvert.SerializeObject(new {Validado = false, Mensagem = "Nome do usuário não confere"});
+                return JsonConvert.SerializeObject(new {result = false, message = "Nome do usuário não confere"});
             }
 
             var encPassword = authenticationItem.Password;
 
             if(!CommonOperations.Encrypt(authItem.Password).Equals(encPassword))
             {
-                return JsonConvert.SerializeObject(new {Validado = false, Mensagem = "Senha não confere"});
+                return JsonConvert.SerializeObject(new {result = false, message = "Senha não confere"});
             }
 
-            return JsonConvert.SerializeObject(new {Validado = true, Mensagem = "Usuário validado com sucesso"});
+            return JsonConvert.SerializeObject(new {result = true, Mensagem = "Usuário validado com sucesso"});
         }
 
     }  
